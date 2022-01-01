@@ -1,0 +1,190 @@
+archiver| 20-06-2021 19:44| 
+^-^ Trevor| 20-06-2021 20:14| >hey
+^-^ Trevor| 20-06-2021 20:15| >hey
+archiver| 20-06-2021 20:15| command recieved
+^-^ Trevor| 20-06-2021 20:15| hey
+^-^ Trevor| 20-06-2021 20:15| >command
+archiver| 20-06-2021 20:15| command recieved
+^-^ Trevor| 20-06-2021 20:16| >command2
+archiver| 20-06-2021 20:16| command recieved
+^-^ Trevor| 20-06-2021 20:17| >hey
+archiver| 20-06-2021 20:17| command recieved
+^-^ Trevor| 20-06-2021 20:17| hey
+^-^ Trevor| 20-06-2021 20:17| >heyyy]
+archiver| 20-06-2021 20:17| command recieved
+^-^ Trevor| 20-06-2021 20:17| it works :D
+^-^ Trevor| 20-06-2021 20:24| >hey
+archiver| 20-06-2021 20:24| hey
+^-^ Trevor| 20-06-2021 20:24| >wassup substrings
+archiver| 20-06-2021 20:24| wassup substrings
+^-^ Trevor| 20-06-2021 20:24| >pogchampers
+archiver| 20-06-2021 20:24| pogchampers
+^-^ Trevor| 20-06-2021 20:43| >archive
+archiver| 20-06-2021 20:43| archive stuff here
+^-^ Trevor| 20-06-2021 20:44| >notarchive
+^-^ Trevor| 20-06-2021 20:47| >archive 10/10/10
+archiver| 20-06-2021 20:47| archive stuff after 10/10/10
+^-^ Trevor| 20-06-2021 20:47| >archive all
+archiver| 20-06-2021 20:47| archive everything
+^-^ Trevor| 20-06-2021 21:10| >archive 10
+^-^ Trevor| 20-06-2021 21:16| >archive 10
+^-^ Trevor| 20-06-2021 21:29| hey
+^-^ Trevor| 20-06-2021 21:29| >exit
+archiver| 20-06-2021 21:29| cya <3
+^-^ Trevor| 20-06-2021 21:33| >help
+archiver| 20-06-2021 21:33| help is on the way!
+^-^ Trevor| 20-06-2021 21:33| >credits
+archiver| 20-06-2021 21:33| Made by ^-^ Trevor
+^-^ Trevor| 20-06-2021 21:33| >exit
+archiver| 20-06-2021 21:33| cya <3
+^-^ Trevor| 20-06-2021 21:33| >credits
+archiver| 20-06-2021 21:33| made by "^-^ Trevor"
+^-^ Trevor| 20-06-2021 21:34| >credits
+archiver| 20-06-2021 21:34| made by "^-^ Trevor"
+^-^ Trevor| 20-06-2021 21:34| >credits
+archiver| 20-06-2021 21:34| made by "^-^ Trevor"
+^-^ Trevor| 20-06-2021 21:34| >exit
+archiver| 20-06-2021 21:34| cya <3
+^-^ Trevor| 20-06-2021 21:34| >credits
+archiver| 20-06-2021 21:34| made by " ^-^ Trevor"
+^-^ Trevor| 20-06-2021 21:35| >exit
+archiver| 20-06-2021 21:35| cya <3
+Among Us Dumpy Bot| 20-06-2021 23:51| 
+^-^ Trevor| 20-06-2021 23:51| !!help
+Among Us Dumpy Bot| 20-06-2021 23:51| 
+^-^ Trevor| 20-06-2021 23:52| !!dumpy <@535845946471350275>
+^-^ Trevor| 20-06-2021 23:53| !!dumpy 10 <@535845946471350275>
+Among Us Dumpy Bot| 20-06-2021 23:53| <@535845946471350275> Please leave a star on the GitHub and vote on top.gg, it's free and helps out a lot!
+^-^ Trevor| 20-06-2021 23:54| !!dumpy 35 <@535845946471350275>
+Among Us Dumpy Bot| 20-06-2021 23:54| The limit for non-voters is 30! <@535845946471350275>, vote on top.gg to increase it to 35!
+All you need to do is sign in with Discord and click the button.
+https://top.gg/bot/847164104161361921/vote
+^-^ Trevor| 20-06-2021 23:54| !!dumpy 35 @^-^ Trevor
+^-^ Trevor| 20-06-2021 23:55| !!dumpy 35 <@535845946471350275>
+Among Us Dumpy Bot| 20-06-2021 23:55| <@535845946471350275> Please leave a star on the GitHub and vote on top.gg, it's free and helps out a lot!
+^-^ Trevor| 20-06-2021 23:56| !!dumpy 35 <@847164104161361921>
+Among Us Dumpy Bot| 20-06-2021 23:56| <@535845946471350275> Please leave a star on the GitHub and vote on top.gg, it's free and helps out a lot!
+^-^ Trevor| 20-06-2021 23:58| 
+^-^ Trevor| 20-06-2021 23:58| !!dumpy 35
+Among Us Dumpy Bot| 20-06-2021 23:59| <@535845946471350275> Please leave a star on the GitHub and vote on top.gg, it's free and helps out a lot!
+^-^ Trevor| 21-06-2021 15:30| >help
+archiver| 21-06-2021 15:30| help is on the way!
+^-^ Trevor| 21-06-2021 15:30| >archive
+^-^ Trevor| 21-06-2021 15:30| >archive all
+archiver| 21-06-2021 15:30| archive everything
+^-^ Trevor| 21-06-2021 15:30| >archive 10/10
+^-^ Trevor| 21-06-2021 15:31| archive 10
+^-^ Trevor| 21-06-2021 15:31| >archive 10
+^-^ Trevor| 21-06-2021 15:31| >exit
+archiver| 21-06-2021 15:31| cya <3
+^-^ Trevor| 21-06-2021 15:32| >archive 10
+^-^ Trevor| 21-06-2021 15:32| >exit
+archiver| 21-06-2021 15:32| cya <3
+^-^ Trevor| 21-06-2021 16:20| >archive 10
+^-^ Trevor| 21-06-2021 16:20| >exit
+^-^ Trevor| 21-06-2021 16:22| >archive 10
+^-^ Trevor| 21-06-2021 16:25| >archive all
+archiver| 21-06-2021 16:25| archive everything
+^-^ Trevor| 21-06-2021 16:26| >exit
+^-^ Trevor| 21-06-2021 16:26| >archive all
+archiver| 21-06-2021 16:26| archive everything
+^-^ Trevor| 21-06-2021 16:27| >archive all
+archiver| 21-06-2021 16:27| archive everything
+^-^ Trevor| 21-06-2021 16:27| >archive 10
+^-^ Trevor| 21-06-2021 16:33| >exit
+^-^ Trevor| 21-06-2021 16:38| >exit
+^-^ Trevor| 21-06-2021 16:39| >archive all
+archiver| 21-06-2021 16:39| archive everything
+^-^ Trevor| 21-06-2021 16:39| >help
+archiver| 21-06-2021 16:39| help is on the way!
+^-^ Trevor| 21-06-2021 16:39| >exit
+archiver| 21-06-2021 16:39| cya <3
+^-^ Trevor| 21-06-2021 19:11| >archive 10
+^-^ Trevor| 21-06-2021 19:12| >archive 10
+^-^ Trevor| 21-06-2021 19:14| >exit
+archiver| 21-06-2021 19:14| cya <3
+^-^ Trevor| 21-06-2021 19:14| >archive 10
+^-^ Trevor| 21-06-2021 19:14| >exit
+archiver| 21-06-2021 19:14| cya <3
+^-^ Trevor| 21-06-2021 19:15| >archive 10
+^-^ Trevor| 21-06-2021 19:18| >archive 1
+^-^ Trevor| 21-06-2021 19:18| >exit
+archiver| 21-06-2021 19:18| cya <3
+^-^ Trevor| 21-06-2021 19:21| >archive 1
+^-^ Trevor| 21-06-2021 19:22| >exit
+archiver| 21-06-2021 19:22| cya <3
+^-^ Trevor| 21-06-2021 19:31| >archive 1
+^-^ Trevor| 21-06-2021 19:34| >archive 1
+^-^ Trevor| 21-06-2021 19:35| >archive 1
+^-^ Trevor| 21-06-2021 19:40| >archive 1
+^-^ Trevor| 21-06-2021 20:45| >archive 1
+^-^ Trevor| 21-06-2021 20:46| >archive 1
+^-^ Trevor| 21-06-2021 20:47| >exit
+archiver| 21-06-2021 20:47| cya <3
+^-^ Trevor| 21-06-2021 20:47| >archive 1
+^-^ Trevor| 21-06-2021 20:47| >exit
+archiver| 21-06-2021 20:47| cya <3
+^-^ Trevor| 21-06-2021 20:49| >archive 1
+^-^ Trevor| 21-06-2021 20:49| >Exit
+^-^ Trevor| 21-06-2021 20:49| >exit
+archiver| 21-06-2021 20:49| cya <3
+^-^ Trevor| 21-06-2021 20:49| (edited) |hey but i edited this message
+^-^ Trevor| 21-06-2021 20:49| and hey but i didnt edit this message
+^-^ Trevor| 21-06-2021 20:51| >archive 1
+^-^ Trevor| 21-06-2021 20:51| >exit
+archiver| 21-06-2021 20:51| cya <3
+^-^ Trevor| 21-06-2021 20:51| so editing messages works and displays correctly
+^-^ Trevor| 21-06-2021 20:51| (edited) |which is good
+^-^ Trevor| 21-06-2021 21:17| >archive 20/06/2021
+^-^ Trevor| 21-06-2021 21:18| >help
+archiver| 21-06-2021 21:18| help is on the way!
+^-^ Trevor| 21-06-2021 21:18| >archive 20-06-2021
+^-^ Trevor| 21-06-2021 21:18| >archive 2021-06-20
+^-^ Trevor| 21-06-2021 21:19| >exit
+archiver| 21-06-2021 21:19| cya <3
+^-^ Trevor| 21-06-2021 21:19| >archive 2021-06-20
+^-^ Trevor| 21-06-2021 21:20| >archive 2021.06.20
+^-^ Trevor| 21-06-2021 21:20| >exit
+archiver| 21-06-2021 21:20| cya <3
+^-^ Trevor| 23-06-2021 20:14| >archive 1
+^-^ Trevor| 23-06-2021 20:14| >help
+archiver| 23-06-2021 20:14| help is on the way!
+^-^ Trevor| 23-06-2021 20:15| >archive 2021.06.20
+^-^ Trevor| 23-06-2021 20:15| >archive 20/06/2021
+^-^ Trevor| 23-06-2021 20:16| >archive 2021-06-20
+^-^ Trevor| 23-06-2021 20:16| >exit
+archiver| 23-06-2021 20:16| cya <3
+^-^ Trevor| 23-06-2021 20:18| >archive 1
+^-^ Trevor| 23-06-2021 20:19| >exit
+archiver| 23-06-2021 20:19| cya <3
+^-^ Trevor| 23-06-2021 20:19| >archive 2021-06-20
+^-^ Trevor| 23-06-2021 20:19| >archive 1
+^-^ Trevor| 23-06-2021 20:19| >exit
+archiver| 23-06-2021 20:19| cya <3
+^-^ Trevor| 23-06-2021 20:20| >archive 1
+^-^ Trevor| 23-06-2021 20:20| >exit
+archiver| 23-06-2021 20:20| cya <3
+^-^ Trevor| 23-06-2021 20:44| >archive 1
+^-^ Trevor| 23-06-2021 20:45| >exit
+archiver| 23-06-2021 20:45| cya <3
+^-^ Trevor| 23-06-2021 20:46| >archive 1
+^-^ Trevor| 23-06-2021 20:48| >exit
+archiver| 23-06-2021 20:48| cya <3
+^-^ Trevor| 23-06-2021 20:48| >archive 1
+^-^ Trevor| 23-06-2021 20:48| >exit
+archiver| 23-06-2021 20:48| cya <3
+^-^ Trevor| 23-06-2021 20:49| >archive 1
+^-^ Trevor| 23-06-2021 20:49| >exit
+archiver| 23-06-2021 20:49| cya <3
+^-^ Trevor| 23-06-2021 21:36| this is a test
+^-^ Trevor| 23-06-2021 21:36| this was sent at 21:36
+^-^ Trevor| 23-06-2021 21:36| (edited) |this message has been edited
+^-^ Trevor| 23-06-2021 21:37| >archive 1
+^-^ Trevor| 23-06-2021 21:38| >exit
+archiver| 23-06-2021 21:38| cya <3
+^-^ Trevor| 24-06-2021 20:05| >archive 1
+^-^ Trevor| 24-06-2021 20:05| >archive 1
+^-^ Trevor| 24-06-2021 20:05| >archive before
+^-^ Trevor| 24-06-2021 20:07| >exit
+archiver| 24-06-2021 20:07| cya <3
+^-^ Trevor| 24-06-2021 20:07| >archive before 1

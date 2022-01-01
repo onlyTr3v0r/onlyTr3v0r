@@ -1,0 +1,10 @@
+main: io.github.onlytr3v0r.firstmcplugin.Main
+name: firstPlugin
+version: 1.0
+author: ^-^ Trevor
+description: my first minecraft java plugin for 1.17.1. made following https://www.justdave.net/dave/2015/05/04/how-to-write-a-minecraftbukkit-plugin-for-spigot-1-8/
+commands:
+    firstcommand:
+       description: my first command from my first plugin
+       usage: /firstcommand
+       permission-message: you dont deserve to see the glory of my first command

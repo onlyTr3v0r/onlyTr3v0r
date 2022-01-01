@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\FiercePC\\Downloads\\javacord-3.3.0-shaded.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ]
+}

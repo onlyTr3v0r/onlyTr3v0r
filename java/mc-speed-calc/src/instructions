@@ -1,0 +1,12 @@
+WALK CODES
+===================
+1 = walk
+2 = sprint
+3 = swim
+
+GROUND CODES
+===================
+solid = solid
+ice = ice / packed ice
+blue ice = blue ice
+soulsand = soulsand

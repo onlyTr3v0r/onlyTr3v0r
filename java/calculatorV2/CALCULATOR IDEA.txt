@@ -1,0 +1,12 @@
+split string inut on ^ twice
+string [0] = string[0] x string[0] (string[1] times)
+concat string[0] and string [1]
+if input has more ^, repeat
+move on to other BO/IDMAS
+while (true) {
+inputTxt = sc.nextLine();
+if inputTxt.contains("^") {
+ //process string as seens above
+} else {
+ break;
+} 	

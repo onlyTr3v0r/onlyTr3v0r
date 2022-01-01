@@ -1,0 +1,16 @@
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\bin\Debug\net5.0\FirstCSProgram.exe
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\bin\Debug\net5.0\FirstCSProgram.deps.json
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\bin\Debug\net5.0\FirstCSProgram.runtimeconfig.json
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\bin\Debug\net5.0\FirstCSProgram.runtimeconfig.dev.json
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\bin\Debug\net5.0\FirstCSProgram.dll
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\bin\Debug\net5.0\ref\FirstCSProgram.dll
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\bin\Debug\net5.0\FirstCSProgram.pdb
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\obj\Debug\net5.0\FirstCSProgram.csproj.AssemblyReference.cache
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\obj\Debug\net5.0\FirstCSProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\obj\Debug\net5.0\FirstCSProgram.AssemblyInfoInputs.cache
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\obj\Debug\net5.0\FirstCSProgram.AssemblyInfo.cs
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\obj\Debug\net5.0\FirstCSProgram.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\obj\Debug\net5.0\FirstCSProgram.dll
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\obj\Debug\net5.0\ref\FirstCSProgram.dll
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\obj\Debug\net5.0\FirstCSProgram.pdb
+C:\Users\FiercePC\Desktop\programming\c#\FirstCSProgram\obj\Debug\net5.0\FirstCSProgram.genruntimeconfig.cache

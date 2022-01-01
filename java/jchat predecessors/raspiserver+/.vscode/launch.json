@@ -1,0 +1,99 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch clientUI",
+            "request": "launch",
+            "mainClass": "src.clientUI",
+            "projectName": "raspiserver+_27bed5f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch serverMain",
+            "request": "launch",
+            "mainClass": "src.serverMain",
+            "projectName": "raspiserver+_40bd4ffe"
+        },
+        {
+            "type": "java",
+            "name": "Launch clientUI",
+            "request": "launch",
+            "mainClass": "src.clientUI",
+            "projectName": "raspiserver+_40bd4ffe"
+        },
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "",
+            "args": "${command:SpecifyProgramArgs}"
+        },
+        {
+            "type": "java",
+            "name": "Launch clientUI",
+            "request": "launch",
+            "mainClass": "clientUI",
+            "projectName": "raspiserver+_40bd4ffe"
+        },
+        {
+            "type": "java",
+            "name": "Launch xx",
+            "request": "launch",
+            "mainClass": "xx",
+            "projectName": "raspiserver+_40bd4ffe"
+        },
+        {
+            "type": "java",
+            "name": "Launch x",
+            "request": "launch",
+            "mainClass": "x",
+            "args": "${command:SpecifyProgramArgs}",
+            "projectName": "raspiserver+_40bd4ffe"
+        },
+        {
+            "type": "java",
+            "name": "Launch tabbedWindowUITest",
+            "request": "launch",
+            "mainClass": "tabbedWindowUITest",
+            "projectName": "raspiserver+_40bd4ffe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClientUI",
+            "request": "launch",
+            "mainClass": "ClientUI",
+            "projectName": "raspiserver+_40bd4ffe"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "raspiserver+_40bd4ffe"
+        },
+        {
+            "type": "java",
+            "name": "Launch serverMain",
+            "request": "launch",
+            "mainClass": "serverMain",
+            "args": "${command:SpecifyProgramArgs}",
+            "projectName": "raspiserver+_40bd4ffe"
+        },
+        {
+            "type": "java",
+            "name": "Launch client",
+            "request": "launch",
+            "mainClass": "client"
+        }
+    ]
+}
