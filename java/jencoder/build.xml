@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="JChat V3" default="compile" basedir=".">
+    <description>
+        A simple build file for the 3rd version of a java chatroom I'm making.
+    </description>
+
+    <property name="source" location="src"/>
+    <property name="build" location="build"/>
+    <property name="distribution" location="dist"/>
+
+    <target name="prep"
+        description="Prepeare directory structure.">
+        <mkdir dir="${build}"/>
+        <mkdir dir="${build}/META-INF"/>
+        <mkdir dir="${distribution}" />
+    </target>
+
+    <target name="compile" depends="prep"
+        description="Compile contents of ${src} into ${build}">
+        <javac srcdir="${source}" destdir="${build}"/>
+    </target>
+
+    <target name="package" depends="compile">
+        <manifest file="${build}/META-INF/MANIFEST.MF">
+            <attribute name="Class-Path" value="Encoder.jar"/>
+            <attribute name="Main-Class" value="main.java.com.github.jencoder.Main"/>
+        </manifest>
+
+        <jar manifest="${build}/META-INF/MANIFEST.MF" jarfile="${distribution}/Encoder.jar" basedir="${build}" />
+    </target>
+
+    <target name="cleanbuild"
+        description="Clean the project's temporary build files.">
+        <delete dir="${build}"/>
+    </target>
+
+    <target name="cleanall" depends="cleanbuild"
+        description="Clean the project entirely.">
+        <delete dir="${distribution}"/>
+    </target>
+
+    <target name="main"
+        description="Compile and package the client.">
+        <echo>Building jar...</echo>
+        <antcall target="package"/>
+        <echo>Done!</echo>
+    </target>
+</project>
