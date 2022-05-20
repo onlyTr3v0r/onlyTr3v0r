@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class bot {
   public static void main(String[] args) {
-    DiscordApi api = new DiscordApiBuilder().setToken("ODQwNTIwMDUxNzYwNDMxMTE1.YJZZTA.ft-hcU85JUT29XFjF6WZyCw8g9k")
+    DiscordApi api = new DiscordApiBuilder().setToken("its a secret!
         .login().join();
 
     // getting link and changing permissions (changing last char of the link)
