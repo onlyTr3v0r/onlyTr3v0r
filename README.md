@@ -1,8 +1,11 @@
 # About Me
 
 Dumb as hell with way to much free time.
+
 Check out 2DMC! (DanubCoding on Github)
+
 Dont bully me for my bad code lol
+
 - Currently coding in Python & Rust
 - Experience in Java
 - Learning webdev
