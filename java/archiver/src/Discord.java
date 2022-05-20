@@ -48,7 +48,7 @@ public class Discord {
 
         //super secret token! 
         //#region
-            DiscordApi api = new DiscordApiBuilder().setToken("ODU2MjM4ODk1OTQ3NTc5Mzky.YM-InA.qfYnmRIlbnepoRzVfbjrjqVO_lg")
+            DiscordApi api = new DiscordApiBuilder().setToken("no")
                     .login().join(); // logging the bot in
             //#endregion
 
