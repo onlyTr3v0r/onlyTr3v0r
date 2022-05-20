@@ -1,9 +1,14 @@
-# Random projects
+# About Me
 
-A collection of all my random projects.
+Dumb as hell with way to much free time.
+Check out 2DMC! (DanubCoding on Github)
+Dont bully me for my bad code lol
+- Currently coding in Python & Rust
+- Experience in Java
+- Learning webdev
 
-Some are unfinished, some were never really started.
+## This Repo
 
-Also includes my first programs in a bunch of langauges :D
-
-Enjoy?
+This repo contains a bunch of miscellanous programs I found when clearing out my projects directory.
+Didnt wanna lose them so thought I'd put them up here.
+I dont think theres anything interesting there ¯\\_(ツ)_/¯
