@@ -1,6 +1,6 @@
 # About Me
 
-Dumb as hell with way to much free time.
+Living proof you don't need to be smart to code.
 
 Check out 2DMC! (DanubCoding on Github)
 
