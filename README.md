@@ -1,6 +1,5 @@
 # About Me
 
-Living proof you don't need to be smart to code.
 
 Check out 2DMC! (DanubCoding on Github)
 
